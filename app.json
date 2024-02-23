@@ -1,0 +1,22 @@
+{
+    "name": "ashent-Md",
+    "description": "I am Ashent-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t In case of Any Problem : www.youtube.com/ishodtash@gmail.com",
+    "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
+    "repository": "https://github.com/Ashent9/ashent-md-qr",
+    "keywords": ["whatsappbot", "ashentMd", "ashent Md bot", "Ashent-Md", "AshentMdWhatsaooBot", "AshentWaBot","AshentMD","Ashent Md Whatsapp Bot","multi device"],
+    "success_url": "/", 
+    "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
+    "env": {      
+      "PORT": {
+        "description": "Port for web app.4000,5000,3000... any!",
+        "value": "5000",
+        "required": true 
+      },
+      "MESSAGE": {
+        "description": "set session id conformation message",
+        "value": "╔════◇║ *『 WOW YOU CHOOSEN ASHENT-MD 』*║ _You Have Complete the First Step to Deploy a Whatsapp Bot._╚════════════════════════╝╔═════◇║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』║❒ *Ytube:* _youtube.com/@ishodtash_║❒ *Owner:* _wa.me/263719916507_║❒ *Repo:* _https://github.com/Ashent9/ashent-bot md_║❒ *WaGroup:* _https://chat.whatsapp.com/HrlPUrgQqs78UQfQWU7mzh_║❒ *WaChannel:* _https://whatsapp.com/channel/0029VaKQJ1A8F2pAAKP6Ms3Q_║❒ *Plugins:* _https://github.com/Ashent9/ashent-bot-md-plugins_╚════════════════════════╝",
+        "required": false 
+      }
+    }   
+
+}
