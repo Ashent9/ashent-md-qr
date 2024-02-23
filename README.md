@@ -82,4 +82,4 @@ RENDER PROCESS:
 
 
 ## MADE WITH ❤️ BY:
-[![AshentTech](https://telegra.ph/file/54efddccf41281ad7ec51.jpg)](https://github.com/Ashent9)
+[![AshentTech](https://telegra.ph/file/04d4ab38a742d78a05e6c.jpg)](https://github.com/Ashent9)
