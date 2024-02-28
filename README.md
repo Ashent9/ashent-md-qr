@@ -46,7 +46,7 @@ RENDER PROCESS:
 
 - WASocket Options
 ```js
-    let Smd =GiftedWASocket({ 
+    let Smd =AshentWASocket({ 
         printQRInTerminal: false,   // make it false if you're using web
         logger: pino({ level: "silent" }),     // make it silent to prevent baileys buffering
         browser: Browsers.baileys("Desktop"),  // awailable browsers : ubuntu, macOS, baileys.
