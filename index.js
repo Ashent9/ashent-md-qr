@@ -14,14 +14,14 @@ const { Boom } = require("@hapi/boom");
 const PORT = process.env.PORT ||  5000
 const MESSAGE = process.env.MESSAGE ||  `
 ╔════◇
-║ *『 WOW YOU CHOOSEN GIFTED-MD 』*
+║ *『 WOW congratulations YOU CHOOSEN ᴀsʜᴇɴᴛ-MD 』*
 ║ _You Have Completed the First Step to Deploy Whatsapp Bot._
 ╚════════════════════════╝
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
-║ *Ytube:* _youtube.com/@giftedtechnexus_
-║ *Owner:* _https://wa.me/254728782591_
-║ 
+║ *Ytube:* _youtube.com/@ishodtash_
+║ *Owner:* _https://wa.me/263787914273_
+║ *repo:* _https://github.com/Ashent9/ashent-bot-Md
 ╚════════════════════════╝
 `
 
@@ -131,7 +131,7 @@ SESSION-ID ==> ${Scan_Id}
     await fs.emptyDirSync(__dirname+'/auth_info_baileys'); 
 
 
-    //// MADE WITH GIFTED TECH
+    //// MADE WITH ASHENT TECH
 
 });
 
